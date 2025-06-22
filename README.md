@@ -21,7 +21,7 @@ A simple Python script that checks the strength of a password based on various c
 
 ## 📂 Files
 
-- `password_checker.py`: The main Python script
+- `password_checker_gui.py`: The main Python script
 
 ---
 
@@ -30,5 +30,5 @@ A simple Python script that checks the strength of a password based on various c
 1. **Clone the repository** or download the `.py` file:
 
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/yourusername/password-strength-checker-gui.git
    cd password-strength-checker
