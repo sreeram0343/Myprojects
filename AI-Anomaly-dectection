@@ -1,0 +1,14 @@
+Myprojects/
+└── AI-AnomalyDetection-CriticalInfra/
+    ├── README.md
+    ├── data/
+    │   ├── SWaT_Dataset.csv
+    │   └── WADI_Dataset.csv
+    ├── notebooks/
+    │   ├── data_exploration.ipynb
+    │   └── anomaly_detection_models.ipynb
+    ├── src/
+    │   ├── data_preprocessing.py
+    │   └── model.py
+    ├── requirements.txt
+    └── .gitignore
